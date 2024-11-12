@@ -121,4 +121,3 @@ def heatmap_visualization(year,month):
 for y in range(2024,2025):
     for mo in range(1,11):
         heatmap_visualization(y,mo)
-
